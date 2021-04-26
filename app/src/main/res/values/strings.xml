@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="name">Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="create_empty">Create empty</string>
+    <string name="view_empty">View empty</string>
+    <string name="reset_entry">Reset entry</string>
+    <string name="enter_id_reset">Enter ID reset</string>
+    <string name="enter_new_name">Enter new name</string>
+    <string name="enter_new_e_mail">Enter new E-mail</string>
+    <string name="delete_enter">Delete enter</string>
+    <string name="enter_id_delete">Enter ID delete</string>
+</resources>
