@@ -1,3 +1,3 @@
 # SQLite
 
-Пример использования SQLLite в Android приложении
+Пример использования SQLite в Android приложении
